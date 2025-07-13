@@ -1,0 +1,214 @@
+.container {
+    max-width: 1200px;
+}
+.header {
+    display: flex;
+    background-color:#FFEFD5 ;
+    justify-content: space-between;
+    padding: 10px 20px;
+    margin: 0 auto;
+    height: 80px;
+}
+
+.header-nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.header-nav__list {
+    display: flex;
+    flex-direction: row;
+    gap: 60px;
+    font-size: 20px;
+    border: gold solid 2px;
+    border-radius: 40px;
+    padding: 12px 40px;
+    list-style: none;
+}
+
+.header-icon{
+    display: flex;
+    height: 110%;
+    width: 105%
+}
+.info-photo{
+    display: flex;
+    height: 350px;
+    border-radius: 20%;
+    border: gold solid 2px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+.main {
+    margin: 0 auto;
+}
+
+.info {
+    margin-top: 24px;
+    display: flex;
+}
+.info-text {
+    text-align: center;
+    align-items: center;
+    margin: 20px auto;
+    font-size: 20px;
+    line-height: 2;
+    max-width: 50%;
+}
+.me_name{
+    font-size: 35px;
+    font-weight: bolder;
+    text-align: center;
+    letter-spacing: 5px;
+    color: #DAA520;
+    font-style: italic;
+    text-shadow:
+            2px 2px 1px rgba(0, 0, 0, 0.6),
+            1px 1px 1px rgba(0, 0, 0, 0.6),
+            1px 1px 1px rgba(0, 0, 0, 0.6),
+            1px 1px 1px rgba(0, 0, 0, 0.6);
+}
+.info-h{
+    font-size: 30px;
+    font-weight: bolder;
+    text-align: center;
+    letter-spacing: 5px;
+    color: #DAA520;
+    font-style: italic;
+    border: 2px solid gold;
+    border-radius: 30px;
+    display: inline;
+    padding: 10px 25px;
+}
+.skills {
+    display: flex;
+    margin-top: 24px;
+    flex-direction: column;
+    border: darkgoldenrod 1px solid;
+    align-items: center;
+    border-radius: 40px;
+}
+
+
+.section-title{
+    color: #DAA520;
+    font-size: 35px;
+    font-style: italic;
+    border: 2px solid gold;
+    border-radius: 30px;
+    margin-left: 20px;
+    text-align: center;
+    letter-spacing: 10px;
+}
+.section-title > span{
+    background-color: white ;
+}
+.skills-list{
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    flex-wrap: wrap;
+    align-self: flex-start;
+    font-size: 20px;
+    list-style: none;
+}
+.skills-list__name:before {
+    content: "✔";
+    color: darkgreen;
+    margin-right: 8px;
+}
+.skills-icon{
+    display: flex;
+    height: 120px;
+    width: 120px;
+    border: gold solid 2px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    border-radius: 60px;
+
+}
+.skills-container{
+    display: flex;
+    align-self: flex-start;
+    gap: 800px;
+}
+.experience{
+    display: flex;
+    margin-top: 24px;
+    flex-direction: column;
+    border: darkgoldenrod 1px solid;
+    align-items: center;
+    border-radius: 40px;
+}
+.experience-description>span{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    margin: 20px auto;
+    font-size: 20px;
+    line-height: 2;
+    max-width: 70%;
+    background-color: #FFEFD5;
+}
+.languages {
+    display: flex;
+    margin-top: 24px;
+    flex-direction: column;
+    border: darkgoldenrod 1px solid;
+    align-items: center;
+    border-radius: 40px;
+}
+.languages-list {
+    display: flex;
+    flex-direction: row;
+    gap: 200px;
+    list-style: none;
+    font-size: 20px;
+}
+.languages-list__name:before {
+    border: 2px solid ;
+    border-radius: 30px;
+    padding: 1px 5px;
+    content: "☆";
+    color: darkgreen;
+    margin-right: 8px;
+}
+.education {
+    display: flex;
+    margin-top: 24px;
+    flex-direction: column;
+    border: darkgoldenrod 1px solid;
+    align-items: center;
+    border-radius: 40px;
+}
+.education-description {
+    display: flex;
+    gap: 100px;
+    list-style: none;
+    font-size: 20px;
+    padding: 20px;
+}
+
+.education-description > div:nth-child(odd){
+    font-weight: bold;
+}
+.footer {
+    display: flex;
+    background-color:#FFEFD5 ;
+    justify-content: space-between;
+    padding: 10px 20px;
+    height: 80px;
+    margin-top:30px;
+}
+.footer-logo__school {
+    width: 100px;
+    height: auto;
+}
+.footer-logo{
+    width: 50px;
+    height: auto;
+}
+.footer-repo{
+    font-size: 20px;
+    text-decoration: underline;
+    margin-top: 20px;
+}
