@@ -1,0 +1,23 @@
+Index: styles/variables.css
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/styles/variables.css b/styles/variables.css
+new file mode 100644
+--- /dev/null	(date 1752420507994)
++++ b/styles/variables.css	(date 1752420507994)
+@@ -0,0 +1,12 @@
++:root {
++    --primary-background-color: #FFEFD5;
++    --primary-title-color: #DAA520;
++    --font-size-desktop: 32px;
++    --font-size-tablet: 32px;
++    --font-size-small-tablet: 32px;
++    --font-size-modile: 32px;
++
++    --black: #000000;
++
++    --white: #FFFFFF;
++}
+\ No newline at end of file

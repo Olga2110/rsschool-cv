@@ -1,0 +1,15 @@
+:root {
+    --bg-dark-color: #030303;
+    --dark-red-color: #710707;
+    --font-gold-color: #9d8665;
+    --hover-color: #9D8665;
+    --active-color: #7E6C51;
+    --media-hover-color: #989898;
+    --media-color: #B3B3B3;
+    --white-color: #FFFFFF;
+    --black-color: #000000;
+
+    --font-text: "Roboto";
+    --font-title: "Forum";
+
+}

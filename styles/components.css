@@ -1,0 +1,12 @@
+.red-button {
+    border-radius: 10px;
+    background: var(--dark-red-color);
+    padding: 24px 64px;
+    color: var(--white-color);
+    transition: all 0.3s ease;
+}
+
+.red-button:hover {
+    background: var(--hover-color);
+    cursor: pointer;
+}
