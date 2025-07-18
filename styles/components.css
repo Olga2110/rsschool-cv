@@ -4,9 +4,53 @@
     padding: 24px 64px;
     color: var(--white-color);
     transition: all 0.3s ease;
+    width: fit-content;
 }
 
 .red-button:hover {
     background: var(--hover-color);
     cursor: pointer;
+}
+.black-button {
+    border-radius: 2px;
+    background: var(--black-color);
+    padding: 0 38px;
+    color: var(--white-color);
+    transition: all 0.3s ease;
+}
+.black-button:hover {
+    background: var(--hover-color);
+    cursor: pointer;
+    transition: all 0.3s ease;
+
+}
+.dark-title {
+    font-family: var(--font-title), serif;
+    color: var(--black-color);
+    font-size: 80px;
+    font-weight: 400;
+    line-height: 88px;
+    transition: all 0.3s ease;
+
+}
+.light-title {
+    font-family: var(--font-title), serif;
+    color: var(--white-color);
+    font-size: 80px;
+    font-weight: 400;
+    line-height: 88px;
+    transition: all 0.3s ease;
+    letter-spacing: 5px;
+
+}
+.dark-title:hover {
+    color: var(--hover-color);
+}
+.light-title:hover {
+    color: var(--hover-color);
+}
+
+.container {
+    width: 1440px;
+    margin: 0 auto;
 }

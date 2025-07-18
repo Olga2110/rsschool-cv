@@ -5,13 +5,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c79c24bd-668b-4ec9-a08b-66519e64457d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/components.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/normalize.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/variables.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/arrow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/colonnade.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/demon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/explore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/greek.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/logo-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/minus.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/mona-lisa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/night.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/parallax 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/plus.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/royal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tickets.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/vector1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/vector2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/vector3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/vector4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/vector5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/welcome-image.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/components.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/components.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +69,7 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "museum",
+    "last_opened_file_path": "/Users/olga211018/WebstormProjects/rsschool-cv/assets/images",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -51,6 +80,9 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/images" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/styles" />
       <recent name="$PROJECT_DIR$/assets" />
@@ -71,7 +103,7 @@
       <option name="presentableId" value="Default" />
       <updated>1751894237811</updated>
       <workItem from="1751894238858" duration="14000" />
-      <workItem from="1751894258160" duration="74059000" />
+      <workItem from="1751894258160" duration="141361000" />
     </task>
     <servers />
   </component>
