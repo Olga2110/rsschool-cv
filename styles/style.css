@@ -2,6 +2,9 @@
 body {
     font-family: var(--font-text), serif;
 }
+html {
+    scroll-behavior: smooth;
+}
 
 h1, h2, h3, h4, h5, h6 {
     font-family: var(--font-title), serif;
@@ -33,11 +36,15 @@ h1, h2, h3, h4, h5, h6 {
     letter-spacing: 5px;
     text-transform: uppercase;
 }
-.header-nav__item:hover {
+.header-nav__item > a {
+    color: var(--white-color);
+
+}
+.header-nav__item > a:hover {
     color: var(--hover-color);
     cursor: pointer;
 }
-.header-nav__item:active {
+.header-nav__item > a:active {
     color: var(--active-color);
 }
 
@@ -61,7 +68,7 @@ h1, h2, h3, h4, h5, h6 {
     left: 240px;
     top: 255px;
 }
-.welcome-info > h4 {
+.welcome-info > h2 {
     text-transform: uppercase;
 
 }
@@ -534,4 +541,7 @@ h1, h2, h3, h4, h5, h6 {
     letter-spacing: 2px;
     border-top: 3px solid #666666;
     padding: 50px;
+}
+.footer-nav__item > a {
+    color: var(--white-color);
 }

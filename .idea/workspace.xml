@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c79c24bd-668b-4ec9-a08b-66519e64457d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/images/ellipse.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/left-double-arrow.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/right-double-arrow.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/video.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/favicon.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/style.css" afterDir="false" />
@@ -75,7 +72,7 @@
       <option name="presentableId" value="Default" />
       <updated>1751894237811</updated>
       <workItem from="1751894238858" duration="14000" />
-      <workItem from="1751894258160" duration="152784000" />
+      <workItem from="1751894258160" duration="157134000" />
     </task>
     <servers />
   </component>
